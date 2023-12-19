@@ -1,0 +1,11 @@
+{
+  "name": "amplify-auth-v6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "aws-amplify": "^6.0.6",
+    "dotenv": "^16.3.1"
+  }
+}
